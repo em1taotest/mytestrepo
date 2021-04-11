@@ -1,1 +1,4 @@
-print("Hello World!")
+a = True
+
+if a:
+    print("Hello World!")
